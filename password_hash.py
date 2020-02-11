@@ -67,6 +67,8 @@ def login():
                 print("Logged In!")
             else:
                 print("Please check username and password.")
+        else:
+            print("Please check username and password.")
 
 
 def main():
